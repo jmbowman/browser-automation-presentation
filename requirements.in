@@ -1,0 +1,5 @@
+# Python package dependencies for building the slides
+
+pip-tools
+sphinxcontrib-blockdiag
+sphinxjp.themes.revealjs
